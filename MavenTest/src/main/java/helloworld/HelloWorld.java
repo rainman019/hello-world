@@ -3,6 +3,6 @@ package helloworld;
 public class HelloWorld {
 	
 	public static void main (String args[]){
-		System.out.println("HelloWorld Maven 3!");
+		System.out.println("HelloWorld Maven 4!");
 	}
 }
